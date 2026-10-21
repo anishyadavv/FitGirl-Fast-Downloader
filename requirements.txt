@@ -1,0 +1,4 @@
+customtkinter>=6.0.0
+camoufox>=0.5.8
+curl_cffi>=0.16.0
+beautifulsoup4>=4.12.0
